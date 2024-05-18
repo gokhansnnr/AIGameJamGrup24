@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3352286093
+    locked: 0
+  - name: MidGorund
+    uniqueID: 3080954411
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1836684213
+    locked: 0
+  - name: Collectibles
+    uniqueID: 948247897
+    locked: 0
+  - name: Enemy
+    uniqueID: 2437759865
+    locked: 0
+  - name: Player
+    uniqueID: 3615548711
+    locked: 0
