@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Diamond
+  - Barrier
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -52,6 +54,9 @@ TagManager:
     locked: 0
   - name: Collectibles
     uniqueID: 948247897
+    locked: 0
+  - name: Barrier
+    uniqueID: 834631097
     locked: 0
   - name: Enemy
     uniqueID: 2437759865
