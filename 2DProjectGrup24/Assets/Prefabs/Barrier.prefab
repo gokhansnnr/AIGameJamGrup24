@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2596833667706108227}
   - component: {fileID: 3067780347835051924}
   - component: {fileID: 6555470942260798625}
+  - component: {fileID: 731785141909218033}
   m_Layer: 0
   m_Name: Barrier
   m_TagString: Barrier
@@ -133,3 +134,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.96, y: 3.95}
   m_EdgeRadius: 0
+--- !u!114 &731785141909218033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5401521811777049541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda1688192f46fb4cbae938bc3e758b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

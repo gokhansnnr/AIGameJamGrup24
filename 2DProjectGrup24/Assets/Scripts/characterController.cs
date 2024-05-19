@@ -90,7 +90,6 @@ public class characterController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         //GroundCheck = collision.gameObject.CompareTag("Ground") ? true : false;
-        print(GroundCheck);
         if (collision.gameObject.CompareTag("Ground"))
         {
             GroundCheck = true;
